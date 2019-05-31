@@ -1,2 +1,2 @@
 # Bootstrap-Portfolio
-Still some design editing  work needs to be done and Portfolio page needs to get done 
+This is the website based on HTML and Bootstrap higlighting my projects and information about me.
