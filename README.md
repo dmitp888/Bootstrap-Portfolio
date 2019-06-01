@@ -1,2 +1,2 @@
 # Bootstrap-Portfolio
-This is the website based on HTML and Bootstrap higlighting my projects and information about me.
+This is a website based on HTML and Bootstrap highlighting my projects and information about me.
